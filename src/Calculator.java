@@ -16,5 +16,9 @@ public class Calculator {
    public static void change(){
         system.out.println("Remote Changes");
    } 
+   public static void localChange(){
+       System.out.println("Local Change");
+   }
+
 }
 
